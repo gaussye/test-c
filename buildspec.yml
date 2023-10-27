@@ -12,4 +12,4 @@ phases:
       -  gcc app.c -o app
 artifacts:
   files:
-    - target/app.jar
+    - app
